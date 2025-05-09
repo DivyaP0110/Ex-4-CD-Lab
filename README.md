@@ -1,6 +1,6 @@
 # Ex-4-LETTER-FOLLOWED-BY-ANY-NUMBER-OF-LETTERS-OR-DIGITS-USING-YACC
 RECOGNITION OF A VALID VARIABLE WHICH STARTS WITH A LETTER FOLLOWED BY ANY NUMBER OF LETTERS OR DIGITS USING YACC
-# Date:30.04.2025
+# Date:09.05.2025
 # Aim:
 To write a YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits.
 # ALGORITHM
@@ -63,7 +63,7 @@ yyerror(char*s)
 }
 ```
 # Output
-![WhatsApp Image 2025-04-29 at 14 19 29_1e809279](https://github.com/user-attachments/assets/21da157b-9ab6-4fdd-9642-7758eae07fb9)
+![image](https://github.com/user-attachments/assets/70f047ec-5ecd-421d-b5cc-9ae35b5556d7)
 
 
 # Result
